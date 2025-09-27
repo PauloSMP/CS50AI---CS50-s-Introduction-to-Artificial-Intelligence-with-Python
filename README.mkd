@@ -1,0 +1,22 @@
+# CS50 AI - Coursework Repository
+
+This repository showcases my work from the **CS50 Introduction to Artificial Intelligence** course.  
+It contains implementations and projects covering various AI concepts, divided by class modules.
+
+---
+
+## Search
+
+- **Degrees**: Implements a breadth-first search to determine the shortest path between two actors through their shared movies.  
+- **Knight**: Solves the problem of finding the shortest path a knight can take on a chessboard using search algorithms.
+
+## Knowledge
+
+- **Minesweeper**: A logical AI agent that plays Minesweeper by inferring safe moves and mine locations.  
+- **TicTacToe**: Implements an AI agent using the Minimax algorithm to play Tic-Tac-Toe optimally.
+
+---
+
+## About
+
+This coursework highlights the foundations of AI, including **Search Algorithms**, **Knowledge Representation**, and **game-playing strategies**. Future updates will include other projects from the course such as **Uncertainty**, **Optimization**, **Learning**, **Neural Networks**, **Language** and **ACE Recommendation**.
